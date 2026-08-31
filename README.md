@@ -20,10 +20,10 @@ Welcome to the **Vue Knowledge HUB**, your go-to repository for all things Vue.j
 <!-- TOP-CONTRIBUTORS-START -->
 | 🏆 Rank | 👤 User | 🔥 Karma |
 |:-------:|:--------:|:--------:|
-| 🥇 | <a href="https://github.com/ishakhorski">@ishakhorski</a> | 112 |
+| 🥇 | <a href="https://github.com/ishakhorski">@ishakhorski</a> | 118 |
 | 🥈 | <a href="https://github.com/vNovski">@vNovski</a> | 66 |
 
-_Last updated: 2026-01-26_
+_Last updated: 2026-08-31_
 <!-- TOP-CONTRIBUTORS-END -->
 
 ## 🤝 How to Contribute
